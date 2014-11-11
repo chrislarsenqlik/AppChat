@@ -1,0 +1,8 @@
+.extdiv { overflow: auto; height: 90%; width: 90%; border: 1px dashed gray;}
+      body { font: 13px Helvetica, Arial; }
+      form { background: #fff; padding: 3px; width: 90%; }
+      form input { border: 1px; padding: 2px; width: 80%; background: #eee;}
+      form button { width: 50px; background: light-gray; border: none; padding: 2px; }
+      #messages { list-style-type: none; margin: 0; padding: 0; }
+      #messages li { padding: 5px 10px; }
+      #messages li:nth-child(odd) { background: #eee; }
